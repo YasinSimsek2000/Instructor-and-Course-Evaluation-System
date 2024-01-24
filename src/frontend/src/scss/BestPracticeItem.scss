@@ -1,0 +1,10 @@
+.horizontal-list {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0;
+}
+.inline-list-item {
+    display: inline-block;
+    margin-right: 10px; /* Add some space between list items */
+}

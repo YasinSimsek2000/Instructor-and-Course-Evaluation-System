@@ -1,0 +1,26 @@
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.input-container label {
+  width: 120px;
+  margin-right: 50px;
+  margin-left : 50px;
+}
+
+.input-container .input  {
+  height: 30px;
+  padding: 5px 10px;
+  font-size: 14px;
+  width: 75%;
+  margin-right: 10px;
+}
+
+
+
+.label-area {
+  width: 120px;
+  margin-right: 10px;
+}
